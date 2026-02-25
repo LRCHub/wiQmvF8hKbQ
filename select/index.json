@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "STARTING OVER",
+  "base_artist": "尾丸ポルカ",
+  "createdAt": "2026-02-25T03:56:55.135287Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Starting Over",
+      "artist": "Chris Stapleton",
+      "has_synced": true,
+      "path": "select/01_Starting_Over_Chris_Stapleton.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Starting Over",
+      "artist": "LSD and the Search for God",
+      "has_synced": true,
+      "path": "select/02_Starting_Over_LSD_and_the_Search_for_God.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Starting Over",
+      "artist": "Tiffany",
+      "has_synced": true,
+      "path": "select/03_Starting_Over_Tiffany.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Starting over",
+      "artist": "The Crystal Method",
+      "has_synced": false,
+      "path": "select/04_Starting_over_The_Crystal_Method.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "(Just Like) Starting Over",
+      "artist": "John Lennon",
+      "has_synced": true,
+      "path": "select/05_(Just_Like)_Starting_Over_John_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "(Just Like) Starting Over",
+      "artist": "John Lennon & Yoko Ono",
+      "has_synced": true,
+      "path": "select/06_(Just_Like)_Starting_Over_John_Lennon_&_Yoko_Ono.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "(Just Like) Starting Over (2010 Remix)",
+      "artist": "John Lennon",
+      "has_synced": true,
+      "path": "select/07_(Just_Like)_Starting_Over_(2010_Remix)_John_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "(Just Like) Starting Over",
+      "artist": "John Lennon & Yoko Ono",
+      "has_synced": true,
+      "path": "select/08_(Just_Like)_Starting_Over_John_Lennon_&_Yoko_Ono.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Starting Over",
+      "artist": "Cher",
+      "has_synced": true,
+      "path": "select/09_Starting_Over_Cher.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Starting Over (Album Version)",
+      "artist": "Cher",
+      "has_synced": false,
+      "path": "select/10_Starting_Over_(Album_Version)_Cher.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Starting Over (feat. Ben Bridwell)",
+      "artist": "Macklemore & Ryan Lewis feat. Macklemore, Ryan Lewis & Ben Bridwell",
+      "has_synced": true,
+      "path": "select/11_Starting_Over_(feat._Ben_Bridwell)_Macklemore_&_Ryan_Lewis_feat._Macklemore,_Ryan_Lewis_&_Ben_Bridwell.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Starting Over (feat. Ben Bridwell)",
+      "artist": "Macklemore & Ryan Lewis",
+      "has_synced": true,
+      "path": "select/12_Starting_Over_(feat._Ben_Bridwell)_Macklemore_&_Ryan_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "(Just Like) Starting Over - 2010 - Remaster",
+      "artist": "John Lennon",
+      "has_synced": true,
+      "path": "select/13_(Just_Like)_Starting_Over_-_2010_-_Remaster_John_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "(Just Like) Starting Over (Remastered 2010)",
+      "artist": "John Lennon",
+      "has_synced": true,
+      "path": "select/14_(Just_Like)_Starting_Over_(Remastered_2010)_John_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "(Just Like) Starting Over",
+      "artist": "John Lennon",
+      "has_synced": true,
+      "path": "select/15_(Just_Like)_Starting_Over_John_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "(Just Like) Starting Over",
+      "artist": "John Lennon",
+      "has_synced": true,
+      "path": "select/16_(Just_Like)_Starting_Over_John_Lennon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "STARTING OVER",
+      "artist": "尾丸ポルカ",
+      "has_synced": false,
+      "path": "select/pl_01_STARTING_OVER_尾丸ポルカ.txt"
+    }
+  ]
+}
